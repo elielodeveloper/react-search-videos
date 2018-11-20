@@ -1,0 +1,9 @@
+.container, body{
+  margin: 10px;
+  background-color: #F9FAFB; 
+}
+
+.video-container{
+  display: flex;
+  justify-content: space-between;
+}
